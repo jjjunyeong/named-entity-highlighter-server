@@ -1,5 +1,5 @@
-# python django server to extract named entity from web url
-
+# Named Entity Highlighter Server
+This is a python django server to extract named entity from web url.
 1. create ner/model directory
 2. save senna_bi_lstm_crf.tf machine learning model inside ner/model directory
 3. run server
